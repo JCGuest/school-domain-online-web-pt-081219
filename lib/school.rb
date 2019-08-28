@@ -15,4 +15,9 @@ def grade(grade_num)
 @roster[grade_num]
 end
 
+def sort 
+
+end
+
+
 end
